@@ -1,0 +1,1 @@
+if (selected = 0) {original_x = event_data[?"posX"] + drag_offsetx;}

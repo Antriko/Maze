@@ -1,0 +1,14 @@
+objPause.paused = false;
+instance_activate_all();
+instance_destroy(objVolume);
+instance_destroy(objVolumeUp);
+instance_destroy(objVolumeDown);
+instance_destroy(objInformation);
+instance_destroy(objDeafen);
+instance_destroy(objUndeafen);
+instance_destroy(objRedo);
+instance_destroy(objHome);
+instance_destroy(objConfirm1);
+instance_destroy(objDeny1);
+instance_destroy(objPauseBackground);
+instance_destroy(self);
